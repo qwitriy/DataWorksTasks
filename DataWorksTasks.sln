@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{0BC6C673-62E1-48C8-9BE9-37FC18EA5B0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataWorksTasks", "DataWorksTasks\DataWorksTasks.csproj", "{4CE16B45-1DD3-4438-A91C-3769792AA955}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BC6C673-62E1-48C8-9BE9-37FC18EA5B0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BC6C673-62E1-48C8-9BE9-37FC18EA5B0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BC6C673-62E1-48C8-9BE9-37FC18EA5B0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BC6C673-62E1-48C8-9BE9-37FC18EA5B0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CE16B45-1DD3-4438-A91C-3769792AA955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CE16B45-1DD3-4438-A91C-3769792AA955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CE16B45-1DD3-4438-A91C-3769792AA955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CE16B45-1DD3-4438-A91C-3769792AA955}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
